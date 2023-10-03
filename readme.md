@@ -1,1 +1,3 @@
-This is sample2.
+This is sample.
+
+This is the updated file.
